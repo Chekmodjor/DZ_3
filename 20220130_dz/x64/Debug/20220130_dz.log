@@ -1,0 +1,10 @@
+﻿  Queue.cpp
+  Users.cpp
+  main.cpp
+  Создание кода...
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Queue<int>::Queue<int>(int)" (??0?$Queue@H@@QEAA@H@Z) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Queue<int>::~Queue<int>(void)" (??1?$Queue@H@@QEAA@XZ) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl Queue<int>::addElement(int)" (?addElement@?$Queue@H@@QEAAXH@Z) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl Queue<int>::deleteElementQueuePriority(void)" (?deleteElementQueuePriority@?$Queue@H@@QEAAXXZ) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl Queue<int>::showQueue(void)" (?showQueue@?$Queue@H@@QEAAXXZ) в функции main.
+C:\Users\olegk\Desktop\20220130_dz\x64\Debug\20220130_dz.exe : fatal error LNK1120: неразрешенных внешних элементов: 5
